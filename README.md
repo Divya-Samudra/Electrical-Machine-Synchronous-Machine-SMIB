@@ -1,5 +1,5 @@
 # Electrical-Machine-Synchronous-Machine-SMIB
-#Our research work: Transient Stability Studies using SMIB Emulator, presented at the International Conference on Frontiers in Engineering, Applied Sciences and Technology, NIT, Trichy, April 2018, pp.145-152, ISBN: 978-81-908388-6-3
+#A part of our research work: Transient Stability Studies using SMIB Emulator, presented at the International Conference on Frontiers in Engineering, Applied Sciences and Technology, NIT, Trichy, April 2018, pp.145-152, ISBN: 978-81-908388-6-3
 
 
 Transient stability model of an SMIB based on swing equation is modelled and simulated using MATLAB. 
