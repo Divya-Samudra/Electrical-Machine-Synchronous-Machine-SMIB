@@ -1,5 +1,9 @@
 # Electrical-Machine-Synchronous-Machine-SMIB
 Our research work: Transient Stability Studies using SMIB Emulator,presented at the International Conference on Frontiers in Engineering, Applied Sciences and Technology, NIT, Trichy, April 2018, pp.145-152, ISBN: 978-81-908388-6-3
+Transient stability model of an SMIB based on swing equation is modelled and simulated using MATLAB. 
+Power system stability can be modeled as a second order nonlinear differential equation known as swing equation.
+![image](https://user-images.githubusercontent.com/130666521/233596120-c4601d24-1a24-4a33-967c-0e234e586883.png)
+
 ![image](https://user-images.githubusercontent.com/130666521/233590658-15e690a7-3907-4714-9ade-f73257ba28fe.png)
 ![image](https://user-images.githubusercontent.com/130666521/233594574-dbedbee0-16f4-4fa8-862a-67137e9ddd3b.png)
 # Single Line Diagram of a Three Bus Power System
